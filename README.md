@@ -18,7 +18,7 @@
     <br>
     <a href="mailto:onur2288@hotmail.com">mail adresime git</a>
     <br>
-    <a href="./007-LİSTELRLE-ÇALIŞMAK.HTML">7.ÇAALIŞMA SAYFAMA GİT</a>
+    <p>instgram adresim:onurakdgn22</p>
     <br>
 <h1 align="center">Hi 👋, I'm Onur Akduğan</h1>
 <h3 align="center">front-end ve react</h3>
